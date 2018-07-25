@@ -1,3 +1,5 @@
+This repository is a part of one project which was stopped.
+
 # script example
 
 ```
